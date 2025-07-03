@@ -9,7 +9,9 @@ The dataset contains real-world credit card transaction data. It includes featur
 🔗 Download Dataset: Google Drive Link (https://drive.google.com/file/d/1flUaiLhnYIrRC65Wi3ABuw_GHir2wEFy/view?usp=sharing)
 (Contains fraudTrain.csv and fraudTest.csv)
 
+
 🎯 Project Objectives
+
 Understand and explore the structure of credit card transaction data.
 
 Preprocess the data (cleaning, encoding, feature selection).
@@ -30,7 +32,9 @@ Accuracy, Precision, Recall, F1-score
 
 Make predictions on test data to classify transactions.
 
+
 🛠️ Tools & Technologies Used
+
 Python
 
 Pandas, NumPy – Data handling and analysis
@@ -41,14 +45,18 @@ Matplotlib, Seaborn – Data visualization
 
 Jupyter Notebook / Google Colab – Development environment
 
+
 🧠 Key Learnings
+
 How to handle imbalanced datasets.
 
 Comparing performance of different classification algorithms.
 
 Importance of metrics like Precision and Recall in fraud detection.
 
+
 🚀 How to Run
+
 Clone the repo or download the notebook.
 
 Install required libraries:
@@ -61,7 +69,9 @@ Load the dataset (fraudTrain.csv and fraudTest.csv).
 
 Run the notebook cell by cell to preprocess, train, and evaluate the models.
 
+
 📊 Sample Output
+
 Accuracy: ~0.96 (Random Forest)
 
 Confusion Matrix showing high detection of fraud cases
