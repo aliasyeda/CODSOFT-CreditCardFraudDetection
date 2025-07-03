@@ -10,6 +10,7 @@ The dataset contains real-world credit card transaction data. It includes featur
 (Contains fraudTrain.csv and fraudTest.csv)
 
 
+
 🎯 Project Objectives
 
 Understand and explore the structure of credit card transaction data.
@@ -33,6 +34,7 @@ Accuracy, Precision, Recall, F1-score
 Make predictions on test data to classify transactions.
 
 
+
 🛠️ Tools & Technologies Used
 
 Python
@@ -46,6 +48,7 @@ Matplotlib, Seaborn – Data visualization
 Jupyter Notebook / Google Colab – Development environment
 
 
+
 🧠 Key Learnings
 
 How to handle imbalanced datasets.
@@ -55,19 +58,19 @@ Comparing performance of different classification algorithms.
 Importance of metrics like Precision and Recall in fraud detection.
 
 
+
 🚀 How to Run
 
 Clone the repo or download the notebook.
 
+
 Install required libraries:
 
-bash
-Copy
-Edit
 pip install pandas numpy scikit-learn matplotlib seaborn
 Load the dataset (fraudTrain.csv and fraudTest.csv).
 
 Run the notebook cell by cell to preprocess, train, and evaluate the models.
+
 
 
 📊 Sample Output
